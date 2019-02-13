@@ -1,1 +1,3 @@
-# DevOps-Hello
+# maven-project
+
+Simple Maven Project
